@@ -13,7 +13,7 @@ public class Test001 {
 
 	 @Test
 	 public void testB() {
-			assertEquals(4, FloorSquareRoot.floorSqrt(20));
+			assertEquals(5, FloorSquareRoot.floorSqrt(20));
 	 }
 }
 
